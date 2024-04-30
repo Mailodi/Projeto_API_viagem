@@ -4,10 +4,10 @@ from ttkbootstrap import Style
 from tkinter import Listbox, Scrollbar, SINGLE
 from API_funcao import get_unsplash_image, get_weather_info, get_pontos_de_inter, obter_coordenadas, mostrar_no_mapa
 
-UNSPLASH_API_KEY = 'jEtJdPK58v2HoyFyqXC7-cNH0kEDbTkzqgIuo00Q5kk'
-OPENWEATHERMAP_API_KEY = 'db5daafa1c69c559669f035b013c045a'
-GOOGLE_PLACES_API_KEY = 'AIzaSyCuIhr2TVYncnhSAHqbJXtUh85-gaKPCUQ'
-api_key_mapquest = 'beQQaY2wTNZFGSu65zM4QpzoEk3nlHjm'  
+UNSPLASH_API_KEY = ''
+OPENWEATHERMAP_API_KEY = ''
+GOOGLE_PLACES_API_KEY = ''
+api_key_mapquest = ''  
 
 # janela principal
 root = tk.Tk()
